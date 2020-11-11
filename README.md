@@ -1,2 +1,1 @@
-# entropie-scan
-Classement automatique des photos
+entropie-scan
